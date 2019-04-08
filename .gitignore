@@ -29,7 +29,6 @@ ghostdriver.log
 htmlcov
 
 junk
-src
 
 *.egg-info
 .cache
